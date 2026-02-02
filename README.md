@@ -1,5 +1,7 @@
 # Amazfit CLI
 
+**⚠️ DISCLAIMER: This tool is for educational and personal use only. It is not officially supported by Huami/Zepp and may violate their Terms of Service. Use at your own risk.**
+
 Python CLI + client for accessing Amazfit/Zepp health data from the Huami cloud APIs.
 
 ## Features
